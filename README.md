@@ -12,26 +12,10 @@ Este é um sistema de gestão de funcionários para empresas, desenvolvido com L
 
 
 <h1>Funcionalidade de Interface</h1>
-<ul>
-    <li><strong>Gerenciamento de Salas:</strong>
-        <ul>
-            <li><strong>Listagem de Salas:</strong> Tabela responsiva que exibe todas as salas disponíveis, com opções para editar e excluir.</li> 
-            <li><strong>Cadastro de Salas:</strong> Formulário para adicionar novas salas.</li>
-            <li><strong>Modal de Visualização de Salas:</strong> Modal que exibe detalhes sobre cada sala ao clicar na opção de visualizar.</li>
-            <li><strong>Modal de Deleção de Salas:</strong> Modal de confirmação para garantir que o usuário deseja realmente excluir uma sala.</li>
-            <li><strong>Modal de Edição de Salas:</strong> Modal que permite editar os detalhes de uma sala selecionada.</li>
-        </ul>
-    </li>
-    <li><strong>Gerenciamento de Reservas:</strong>
-        <ul>
-            <li><strong>Listagem de Reservas:</strong> Tabela responsiva que exibe todas as reservas de salas, com opções para editar e excluir.</li>
-            <li><strong>Cadastro de Reservas:</strong> Formulário para adicionar novas reservas, permitindo que o usuário escolha entre as salas disponíveis.</li>
-            <li><strong>Modal de Visualização de Reservas:</strong> Modal que exibe detalhes sobre cada reserva ao clicar na opção de visualizar.</li>
-            <li><strong>Modal de Deleção de Reservas:</strong> Modal de confirmação para garantir que o usuário deseja realmente excluir uma reserva.</li>
-            <li><strong>Modal de Edição de Reservas:</strong> Modal que permite editar os detalhes de uma reserva selecionada.</li>
-        </ul>
-    </li>
-</ul>
+<li><strong>Autenticação de Usuário: </strong> Registro, login e logout com Laravel Breeze.</li>
+<li><strong>CRUD de Funcionários:</strong> Funcionalidade para listar, adicionar, editar e excluir funcionários.</li>
+<li><strong>Alertas Dinâmicos:</strong> Alertas interativos com SweetAlert2 para confirmações de ações, mensagens de erro e notificações de sucesso.</li>
+<li><strong>Interface Responsiva: </strong>Desenvolvida em React para proporcionar uma experiência de usuário moderna e intuitiva</li>
 
 
 <br>
