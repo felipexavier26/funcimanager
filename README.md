@@ -22,19 +22,9 @@ Este é um sistema de gestão de funcionários para empresas, desenvolvido com L
 
 
 <h1>Instruções de Instalação e Execução</h1>
-<ol>
-    <li><strong>Clone o repositório:</strong>
-        <pre><code>git clone https://github.com/felipexavier26/ReservaFrontend.git</code></pre>
-    </li>
-    <li><strong>Navegue até o diretório do projeto:</strong>
-        <pre><code>cd ReservaFrontend</code></pre>
-    </li>
-    <li><strong>Instale as dependências:</strong>
-        <pre><code>npm install</code></pre>
-    </li>
-    <li><strong>Inicie o servidor de desenvolvimento:</strong>
-        <pre><code>npm run dev</code></pre>
-    </li>
-</ol>
+<li><strong>PHP: </strong>>= 8.0</li>
+<li><strong>Composer:</strong> para gerenciar as dependências do Laravel</li>
+<li><strong>Node.js e npm:</strong>para o frontend React</li>
+<li><strong>Banco de Dados: </strong>onfigurado e acessível MySQL</li>
 
 
