@@ -23,8 +23,8 @@ Este é um sistema de gestão de funcionários para empresas, desenvolvido com L
 
 <h1>Instruções de Instalação e Execução</h1>
 <li><strong>PHP: </strong>>= 8.0</li>
-<li><strong>Composer:</strong> para gerenciar as dependências do Laravel</li>
-<li><strong>Node.js e npm:</strong>para o frontend React</li>
-<li><strong>Banco de Dados: </strong>onfigurado e acessível MySQL</li>
+<li><strong>Composer:</strong> Para gerenciar as dependências do Laravel</li>
+<li><strong>Node.js e npm:</strong> Para o frontend React</li>
+<li><strong>Banco de Dados: </strong> Configurado e acessível MySQL</li>
 
 
