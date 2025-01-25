@@ -28,3 +28,9 @@ Este é um sistema de gestão de funcionários para empresas, desenvolvido com L
 <li><strong>Banco de Dados: </strong> Configurado e acessível MySQL</li>
 
 
+![image](https://github.com/user-attachments/assets/d50a51dc-618d-4a92-a714-8eafeff8b54c)
+
+![image](https://github.com/user-attachments/assets/42d86031-135c-425d-9b69-5e33a921e148)
+
+
+
